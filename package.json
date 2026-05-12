@@ -1,0 +1,24 @@
+{
+  "name": "com.debugshaderpack.numeric-display",
+  "version": "1.0.0",
+  "displayName": "Debug Shader Pack Numeric Display",
+  "description": "Provides an HLSL numeric debug overlay for Unity shaders and Amplify Shader Editor. Renders R/G/B values in three colored rows anchored to the object origin projected into screen space.",
+  "unity": "2022.3",
+  "keywords": [
+    "shader",
+    "debug",
+    "hlsl",
+    "amplify",
+    "numeric"
+  ],
+  "author": {
+    "name": "DebugShaderPack"
+  },
+  "samples": [
+    {
+      "displayName": "Example Shader",
+      "description": "Minimal shader example showing how to render the numeric overlay.",
+      "path": "Samples~/Example"
+    }
+  ]
+}
