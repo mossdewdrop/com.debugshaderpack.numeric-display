@@ -1,5 +1,11 @@
 # Debug Shader Pack Numeric Display
 
+## Preview
+
+<video src="assets/addone_show.mp4" controls muted loop></video>
+
+![Amplify Shader Editor Example](assets/ASE_Example.png)
+
 Unity Package Manager package for rendering numeric debug values directly inside shaders.
 
 ## Features
@@ -20,6 +26,7 @@ Unity Package Manager package for rendering numeric debug values directly inside
 
 - `Runtime/Shaders/DebugNumericDisplay.hlsl`
 - `Documentation~/Usage.md`
+- `Documentation~/Usage.en.md`
 - `Samples~/Example`
 
 ## Install
@@ -45,7 +52,7 @@ For URP shaders, include `Core.hlsl` before the package file:
 #include "Packages/com.debugshaderpack.numeric-display/Runtime/Shaders/DebugNumericDisplay.hlsl"
 ```
 
-Detailed usage is available in `Documentation~/Usage.md`.
+Detailed usage is available in `Documentation~/Usage.en.md`.
 
 ## Acknowledgements
 
