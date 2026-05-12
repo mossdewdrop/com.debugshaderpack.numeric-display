@@ -2,7 +2,7 @@
 
 ## Preview
 
-<video src="assets/addone_show.mp4" controls muted loop></video>
+![Numeric Display Preview](assets/addone_show.webp)
 
 ![Amplify Shader Editor Example](assets/ASE_Example.png)
 
